@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM phusion/baseimage:bionic-1.0.0
 RUN useradd -m challuser
 WORKDIR /
 RUN apt-get update
