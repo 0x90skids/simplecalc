@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM phusion/baseimage:focal-1.0.0-alpha1-amd64
 RUN useradd -m challuser
 WORKDIR /
 RUN apt-get update
