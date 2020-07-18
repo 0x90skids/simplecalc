@@ -1,4 +1,4 @@
-# simple-calc
+# simplecalc
 Just a simple calculator application. Nothing suspicious to see here :)
 
 ## Solving locally
